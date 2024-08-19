@@ -16,10 +16,10 @@ Test Set: Used to evaluate the final model's performance.
 
 We utilized a neural network with transfer learning, leveraging the DenseNet121 architecture. Transfer learning allows us to build on the knowledge from a pre-trained model, improving performance and reducing training time. Specific steps included:
 
-1.Transfer Learning: Initialized the model with pre-trained DenseNet121 weights.
-2.Additional Layers: Added a dropout layer and a dense layer.
-3.Hyperparameter Tuning: Conducted a hyperparameter search specifically for the dropout rate to identify the optimal setting. The best-performing parameter was selected, and other parameters were left at their default values.
-4.Fine-Tuning: Unfroze and fine-tuned the last 10 layers of the DenseNet121 network to achieve optimal results.
+1. Transfer Learning: Initialized the model with pre-trained DenseNet121 weights.
+2. Additional Layers: Added a dropout layer and a dense layer.
+3. Hyperparameter Tuning: Conducted a hyperparameter search specifically for the dropout rate to identify the optimal setting. The best-performing parameter was selected, and other parameters were left at their default values.
+4. Fine-Tuning: Unfroze and fine-tuned the last 10 layers of the DenseNet121 network to achieve optimal results.
 
 `Performance`
 
