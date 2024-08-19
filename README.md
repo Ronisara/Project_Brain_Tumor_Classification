@@ -8,9 +8,9 @@ This project focuses on the classification of MRI brain images into three types 
 
 The dataset was divided into training, validation, and test sets to ensure robust model evaluation. Initially, we split the data into 20% for testing and 80% for training. Then, from the training data, we further split 20% for validation and used the remaining 80% for training the model.
 
-Training Set: Used for training the model.
-Validation Set: Used to tune hyperparameters and make decisions about the model architecture.
-Test Set: Used to evaluate the final model's performance.
+- Training Set: Used for training the model.
+- Validation Set: Used to tune hyperparameters and make decisions about the model architecture.
+- Test Set: Used to evaluate the final model's performance.
 
 `Model and Techniques`
 
