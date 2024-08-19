@@ -1,4 +1,5 @@
 Brain Tumor Classification (MRI)
+
 Project Overview
 
 This project focuses on the classification of MRI brain images into three types of cancer: glioma, meningioma, and pituitary, or identifying them as non-cancerous. The goal of this project is to assist in the early detection and diagnosis of brain tumors, potentially improving treatment outcomes and patient prognosis. Gliomas, meningiomas, and pituitary tumors are among the most common types of brain tumors, each with distinct characteristics and treatment approaches. Accurate classification is crucial for appropriate medical intervention.
